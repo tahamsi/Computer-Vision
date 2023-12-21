@@ -11,6 +11,7 @@ You can open the terminal or command prompt and then navigate to the directory w
 
 Type the following command:
 
+Shell </>
 bash
 
 git clone https://github.com/tahamsi/Computer-Vision.git
